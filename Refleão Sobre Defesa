@@ -1,0 +1,30 @@
+Como me proteger de vírus e ataques (Ransomware e Keyloggers)
+Este é um resumo simples das coisas que podemos fazer para nos defender de programas maliciosos (malware), como aqueles que sequestram arquivos (ransomware) ou roubam senhas (keyloggers).
+
+1. Programas de Segurança (Antivírus)
+Ter um bom Antivírus: Use programas de antivírus que sejam atuais e de confiança. Eles devem ser capazes de detectar o vírus antes que ele cause problemas.
+
+Manter tudo atualizado: Garanta que seu sistema operacional (Windows, macOS) e todos os seus programas estejam sempre com as últimas atualizações de segurança instaladas.
+
+2. Firewall
+O "Vigia" da Internet: Use um firewall (uma espécie de porteiro digital) para controlar o que entra e o que sai da sua rede ou computador.
+
+Bloquear Saídas Suspeitas: Ele deve impedir que um programa que não pedimos tente mandar informações nossas para a internet (tipo um ladrão tentando sair com os dados).
+
+3. Sandboxing
+Testar em Local Seguro: Se você precisar abrir um arquivo ou programa que não tem certeza se é seguro (um anexo de e-mail, por exemplo), abra-o em um ambiente isolado, como uma máquina virtual (VM). 
+É como um laboratório onde o vírus não pode contaminar o resto do seu computador.
+
+4. Atenção e Cuidado (O Fator Humano)
+Ser Desconfiado: Receba treinamentos para aprender a reconhecer e-mails falsos (phishing) e sites estranhos.
+
+Pensar Antes de Clicar: A regra mais importante - sempre pare e pense antes de clicar em links, baixar arquivos ou dar informações pessoais. 
+Muitos ataques só funcionam porque a pessoa clicou no lugar errado.
+
+5. Regras e Cuidados Extras
+Backup: Tenha cópias de segurança (backups) dos seus arquivos mais importantes. 
+Mantenha essas cópias separadas do seu computador (em um disco externo desconectado ou em um serviço na nuvem seguro).
+
+Senhas Fortes: Use senhas diferentes para cada serviço e ative a autenticação de dois fatores (MFA) sempre que puder (o código que você recebe no celular).
+
+Não Dar Acesso Demais: Programas e pessoas só devem ter o nível mínimo de acesso necessário para fazer o trabalho (Princípio do Menor Privilégio).
